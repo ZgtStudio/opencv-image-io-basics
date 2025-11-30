@@ -1,4 +1,4 @@
-# OpenCV Image Reading, Displaying and
+# OpenCV Image Reading, Displaying and Saving
 
 This repository contains my first computer vision exercise under **Zgt Studio**.  
 The goal is to load the classic `cameraman.tif` image with OpenCV, display it in a window and save a grayscale copy.
